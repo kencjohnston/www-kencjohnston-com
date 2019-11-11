@@ -36,17 +36,10 @@ pygmentCodeFences = true
 [Author]
   name = "Kenny Johnston"
   email = "kencjohnston@gmail.com"
-  facebook = "kencjohnston"
   gitlab = "kencjohnston"
   github = "kencjohnston"
   twitter = "kencjohnston"
-  reddit = "kencjohnston"
   linkedin = "kencjohnston"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "kencjohnston"
-  youtube = "user/kencjohnston"
-  spotify = "kencjohnston"
 
 
 [[menu.main]]
