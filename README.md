@@ -1,12 +1,7 @@
 ![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
 
 ---
-
-Example [Hugo] website using GitLab Pages.
-
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
-
+Code for www.kencjohnston.com
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -20,11 +15,6 @@ documentation https://docs.gitlab.com/ce/user/project/pages/.
 - [Troubleshooting](#troubleshooting)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## GitLab CI
-
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).
 
 ## Building locally
 
