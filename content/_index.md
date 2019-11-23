@@ -1,6 +1,6 @@
 ## Welcome
 
-This website is the home of Kenny Johnston. Head over to the [About](/pages/about) page to learn a bit more about him.
+This website is the home of Kenny Johnston. Head over to the [About](/pages/about) page of this site to learn a bit more about him.
 
 ## Typos, Comment and Suggestions
 
