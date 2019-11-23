@@ -2,7 +2,7 @@ baseurl = "https://johnston-family.gitlab.io/www-kencjohnston-com/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Kenny Johnston"
+title = "kencjohnston"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -14,10 +14,10 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Web Home for Kenny Johnston"
+  subtitle = "The Home of Kenny Johnston"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "Jan 2, 2006"
   commit = false
   rss = true
   comments = true
