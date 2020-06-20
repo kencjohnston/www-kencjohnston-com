@@ -1,4 +1,4 @@
-baseurl = "https://www.kencjohnston.com"
+baseurl = "http://www.kencjohnston.com"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
