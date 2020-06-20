@@ -1,4 +1,4 @@
-baseurl = "https://johnston-family.gitlab.io/www-kencjohnston-com/"
+baseurl = "https://www.kencjohnston.com"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
