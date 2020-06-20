@@ -2,7 +2,7 @@ baseurl = "http://www.kencjohnston.com"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "kencjohnston"
+title = "KenCJohnston"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -46,6 +46,11 @@ pygmentCodeFences = true
     name = "Blog"
     url = ""
     weight = 1
+
+[[menu.main]]
+    name = "Presentations"
+    url = "http://presentations.kencjohnston.com"
+    weight = 2
 
 [[menu.main]]
     name = "About"
